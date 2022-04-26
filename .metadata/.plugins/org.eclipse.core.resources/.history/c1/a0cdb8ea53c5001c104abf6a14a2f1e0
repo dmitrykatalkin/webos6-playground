@@ -18,23 +18,8 @@
     <script src="js/scap-1.8/cordova-cd/time.js"></script>
     <script src="js/scap-1.8/cordova-cd/iot.js"></script>
     <script src="js/main.js"></script>
-    <style>
-    	body {
-    		display: flex;
-            flex-direction: column;
-    		justify-content: center;
-    		align-items: center;
-    		color: white;
-    	}
-
-        #storage-info {
-            margin-top: 5em;
-            font-size: 24px;
-        }
-    </style>
 </head>
 <body>
     <h1>Test Media Download</h1>
-    <pre id="storage-info"></pre>
 </body>
 </html>
