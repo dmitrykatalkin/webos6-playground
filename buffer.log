@@ -1,0 +1,574 @@
+Timeout main.js:330
+Failed to load resource: net::ERR_FILE_NOT_FOUND file:///media/cryptofs/apps/usr/palm/applications/com.lg.app.signage/cordova_plugins.json
+exec: Device.getDeviceInfo cordova.webos.js:822
+exec: NetworkStatus.getConnectionInfo cordova.webos.js:822
+Start main.js:338
+runScapCommand Storage.removeFile Object {errorCode: "IO_ERROR", errorText: "File does not exists: /media"} main.js:493
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/how-to-get-rid-of-bags-under-eyes-and-dark-circles.mp4 file://internal/buffer/how_to_get_rid_of_bags_under_eyes_and_dark_circles.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/how-to-get-rid-of-bags-under-eyes-and-dark-circles.mp4 main.js:401
+Move File Start: file://internal/buffer/how_to_get_rid_of_bags_under_eyes_and_dark_circles.mp4 file://usb:1/media/how_to_get_rid_of_bags_under_eyes_and_dark_circles.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/how_to_get_rid_of_bags_under_eyes_and_dark_circles.mp4 file://usb:1/media/how_to_get_rid_of_bags_under_eyes_and_dark_circles.mp4 main.js:438
+Move Success: how_to_get_rid_of_bags_under_eyes_and_dark_circles.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/9.6_Million_Americans_Are_Severely_Nearsighted.mp4 file://internal/buffer/9.6_Million_Americans_Are_Severely_Nearsighted.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/9.6_Million_Americans_Are_Severely_Nearsighted.mp4 main.js:401
+Move File Start: file://internal/buffer/9.6_Million_Americans_Are_Severely_Nearsighted.mp4 file://usb:1/media/9.6_Million_Americans_Are_Severely_Nearsighted.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/9.6_Million_Americans_Are_Severely_Nearsighted.mp4 file://usb:1/media/9.6_Million_Americans_Are_Severely_Nearsighted.mp4 main.js:438
+Move Success: 9.6_Million_Americans_Are_Severely_Nearsighted.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/lasik-surgery-alternatives.mp4 file://internal/buffer/lasik_surgery_alternatives.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/lasik-surgery-alternatives.mp4 main.js:401
+Move File Start: file://internal/buffer/lasik_surgery_alternatives.mp4 file://usb:1/media/lasik_surgery_alternatives.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/lasik_surgery_alternatives.mp4 file://usb:1/media/lasik_surgery_alternatives.mp4 main.js:438
+Move Success: lasik_surgery_alternatives.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/researchers_say_improved_sleep_quality_has_similar_rewards_to_winning_lottery.mp4 file://internal/buffer/researchers_say_improved_sleep_quality_has_similar_rewards_to_winning_lottery.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/researchers_say_improved_sleep_quality_has_similar_rewards_to_winning_lottery.mp4 main.js:401
+Move File Start: file://internal/buffer/researchers_say_improved_sleep_quality_has_similar_rewards_to_winning_lottery.mp4 file://usb:1/media/researchers_say_improved_sleep_quality_has_similar_rewards_to_winning_lottery.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/researchers_say_improved_sleep_quality_has_similar_rewards_to_winning_lottery.mp4 file://usb:1/media/researchers_say_improved_sleep_quality_has_similar_rewards_to_winning_lottery.mp4 main.js:438
+Move Success: researchers_say_improved_sleep_quality_has_similar_rewards_to_winning_lottery.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/artificial-retinas-could-help-patients-facing-blindness.mp4 file://internal/buffer/artificial_retinas_could_help_patients_facing_blindness.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/artificial-retinas-could-help-patients-facing-blindness.mp4 main.js:401
+Move File Start: file://internal/buffer/artificial_retinas_could_help_patients_facing_blindness.mp4 file://usb:1/media/artificial_retinas_could_help_patients_facing_blindness.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/artificial_retinas_could_help_patients_facing_blindness.mp4 file://usb:1/media/artificial_retinas_could_help_patients_facing_blindness.mp4 main.js:438
+Move Success: artificial_retinas_could_help_patients_facing_blindness.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Healthy_5_Ingredient_Granola_Bar_Recipe.mp4 file://internal/buffer/Healthy_5_Ingredient_Granola_Bar_Recipe.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Healthy_5_Ingredient_Granola_Bar_Recipe.mp4 main.js:401
+Move File Start: file://internal/buffer/Healthy_5_Ingredient_Granola_Bar_Recipe.mp4 file://usb:1/media/Healthy_5_Ingredient_Granola_Bar_Recipe.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Healthy_5_Ingredient_Granola_Bar_Recipe.mp4 file://usb:1/media/Healthy_5_Ingredient_Granola_Bar_Recipe.mp4 main.js:438
+Move Success: Healthy_5_Ingredient_Granola_Bar_Recipe.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/what_are_the_different_lasik_types.mp4 file://internal/buffer/what_are_the_different_lasik_types.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/what_are_the_different_lasik_types.mp4 main.js:401
+Move File Start: file://internal/buffer/what_are_the_different_lasik_types.mp4 file://usb:1/media/what_are_the_different_lasik_types.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/what_are_the_different_lasik_types.mp4 file://usb:1/media/what_are_the_different_lasik_types.mp4 main.js:438
+Move Success: what_are_the_different_lasik_types.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Scratch_Resistant_Coatings_-_What_Are_The_Real_Benefits.mp4 file://internal/buffer/Ryan_Corte___Scratch_Resistant_Coatings___What_Are_The_Real_Benefits.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Scratch_Resistant_Coatings_-_What_Are_The_Real_Benefits.mp4 main.js:401
+Move File Start: file://internal/buffer/Ryan_Corte___Scratch_Resistant_Coatings___What_Are_The_Real_Benefits.mp4 file://usb:1/media/Ryan_Corte___Scratch_Resistant_Coatings___What_Are_The_Real_Benefits.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Ryan_Corte___Scratch_Resistant_Coatings___What_Are_The_Real_Benefits.mp4 file://usb:1/media/Ryan_Corte___Scratch_Resistant_Coatings___What_Are_The_Real_Benefits.mp4 main.js:438
+Move Success: Ryan_Corte___Scratch_Resistant_Coatings___What_Are_The_Real_Benefits.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/new_york_cheesecake.mp4 file://internal/buffer/new_york_cheesecake.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/new_york_cheesecake.mp4 main.js:401
+Move File Start: file://internal/buffer/new_york_cheesecake.mp4 file://usb:1/media/new_york_cheesecake.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/new_york_cheesecake.mp4 file://usb:1/media/new_york_cheesecake.mp4 main.js:438
+Move Success: new_york_cheesecake.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/running_brain_123016.mp4 file://internal/buffer/running_brain_123016.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/running_brain_123016.mp4 main.js:401
+Move File Start: file://internal/buffer/running_brain_123016.mp4 file://usb:1/media/running_brain_123016.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/running_brain_123016.mp4 file://usb:1/media/running_brain_123016.mp4 main.js:438
+Move Success: running_brain_123016.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/How_Much_Does_A_Healthy_Lifestyle_Increase_Life_Expectancy.mp4 file://internal/buffer/How_Much_Does_A_Healthy_Lifestyle_Increase_Life_Expectancy.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/How_Much_Does_A_Healthy_Lifestyle_Increase_Life_Expectancy.mp4 main.js:401
+Move File Start: file://internal/buffer/How_Much_Does_A_Healthy_Lifestyle_Increase_Life_Expectancy.mp4 file://usb:1/media/How_Much_Does_A_Healthy_Lifestyle_Increase_Life_Expectancy.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/How_Much_Does_A_Healthy_Lifestyle_Increase_Life_Expectancy.mp4 file://usb:1/media/How_Much_Does_A_Healthy_Lifestyle_Increase_Life_Expectancy.mp4 main.js:438
+Move Success: How_Much_Does_A_Healthy_Lifestyle_Increase_Life_Expectancy.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/ads/videos/lipiflow1.mp4 file://internal/buffer/lipiflow1.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/ads/videos/lipiflow1.mp4 main.js:401
+Move File Start: file://internal/buffer/lipiflow1.mp4 file://usb:1/media/lipiflow1.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/lipiflow1.mp4 file://usb:1/media/lipiflow1.mp4 main.js:438
+Move Success: lipiflow1.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/CU_Studios_Courtney_1.mp4 file://internal/buffer/CU_Studios_Courtney_1.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/CU_Studios_Courtney_1.mp4 main.js:401
+Move File Start: file://internal/buffer/CU_Studios_Courtney_1.mp4 file://usb:1/media/CU_Studios_Courtney_1.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/CU_Studios_Courtney_1.mp4 file://usb:1/media/CU_Studios_Courtney_1.mp4 main.js:438
+Move Success: CU_Studios_Courtney_1.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Treatment_for_Dry_Eye2.mp4 file://internal/buffer/Treatment_for_Dry_Eye2.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Treatment_for_Dry_Eye2.mp4 main.js:401
+Move File Start: file://internal/buffer/Treatment_for_Dry_Eye2.mp4 file://usb:1/media/Treatment_for_Dry_Eye2.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Treatment_for_Dry_Eye2.mp4 file://usb:1/media/Treatment_for_Dry_Eye2.mp4 main.js:438
+Move Success: Treatment_for_Dry_Eye2.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Cheese_Lovers_Rejoice.mp4 file://internal/buffer/Cheese_Lovers_Rejoice.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Cheese_Lovers_Rejoice.mp4 main.js:401
+Move File Start: file://internal/buffer/Cheese_Lovers_Rejoice.mp4 file://usb:1/media/Cheese_Lovers_Rejoice.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Cheese_Lovers_Rejoice.mp4 file://usb:1/media/Cheese_Lovers_Rejoice.mp4 main.js:438
+Move Success: Cheese_Lovers_Rejoice.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/4_Healing_Herbs_In_Your_Kitchen.mp4 file://internal/buffer/4_Healing_Herbs_In_Your_Kitchen.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/4_Healing_Herbs_In_Your_Kitchen.mp4 main.js:401
+Move File Start: file://internal/buffer/4_Healing_Herbs_In_Your_Kitchen.mp4 file://usb:1/media/4_Healing_Herbs_In_Your_Kitchen.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/4_Healing_Herbs_In_Your_Kitchen.mp4 file://usb:1/media/4_Healing_Herbs_In_Your_Kitchen.mp4 main.js:438
+Move Success: 4_Healing_Herbs_In_Your_Kitchen.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Ultraviolet_UV_Coatings_-_How_Do_They_Protect_Your_Eyes.mp4 file://internal/buffer/Ryan_Corte___Ultraviolet_UV_Coatings___How_Do_They_Protect_Your_Eyes.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Ultraviolet_UV_Coatings_-_How_Do_They_Protect_Your_Eyes.mp4 main.js:401
+Move File Start: file://internal/buffer/Ryan_Corte___Ultraviolet_UV_Coatings___How_Do_They_Protect_Your_Eyes.mp4 file://usb:1/media/Ryan_Corte___Ultraviolet_UV_Coatings___How_Do_They_Protect_Your_Eyes.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Ryan_Corte___Ultraviolet_UV_Coatings___How_Do_They_Protect_Your_Eyes.mp4 file://usb:1/media/Ryan_Corte___Ultraviolet_UV_Coatings___How_Do_They_Protect_Your_Eyes.mp4 main.js:438
+Move Success: Ryan_Corte___Ultraviolet_UV_Coatings___How_Do_They_Protect_Your_Eyes.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/how-to-health-hacks-roasted-carrot-soup.mp4 file://internal/buffer/how_to_health_hacks_roasted_carrot_soup.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/how-to-health-hacks-roasted-carrot-soup.mp4 main.js:401
+Move File Start: file://internal/buffer/how_to_health_hacks_roasted_carrot_soup.mp4 file://usb:1/media/how_to_health_hacks_roasted_carrot_soup.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/how_to_health_hacks_roasted_carrot_soup.mp4 file://usb:1/media/how_to_health_hacks_roasted_carrot_soup.mp4 main.js:438
+Move Success: how_to_health_hacks_roasted_carrot_soup.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/The_5_Things_To_Do_Every_Morning_To_Stay_Healthy.mp4 file://internal/buffer/The_5_Things_To_Do_Every_Morning_To_Stay_Healthy.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/The_5_Things_To_Do_Every_Morning_To_Stay_Healthy.mp4 main.js:401
+Move File Start: file://internal/buffer/The_5_Things_To_Do_Every_Morning_To_Stay_Healthy.mp4 file://usb:1/media/The_5_Things_To_Do_Every_Morning_To_Stay_Healthy.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/The_5_Things_To_Do_Every_Morning_To_Stay_Healthy.mp4 file://usb:1/media/The_5_Things_To_Do_Every_Morning_To_Stay_Healthy.mp4 main.js:438
+Move Success: The_5_Things_To_Do_Every_Morning_To_Stay_Healthy.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/3_High_Tech_Home_Gardens.mp4 file://internal/buffer/3_High_Tech_Home_Gardens.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/3_High_Tech_Home_Gardens.mp4 main.js:401
+Move File Start: file://internal/buffer/3_High_Tech_Home_Gardens.mp4 file://usb:1/media/3_High_Tech_Home_Gardens.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/3_High_Tech_Home_Gardens.mp4 file://usb:1/media/3_High_Tech_Home_Gardens.mp4 main.js:438
+Move Success: 3_High_Tech_Home_Gardens.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/smoking-food-with-matt-lambert-of-the-musket-room.mp4 file://internal/buffer/smoking_food_with_matt_lambert_of_the_musket_room.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/smoking-food-with-matt-lambert-of-the-musket-room.mp4 main.js:401
+Move File Start: file://internal/buffer/smoking_food_with_matt_lambert_of_the_musket_room.mp4 file://usb:1/media/smoking_food_with_matt_lambert_of_the_musket_room.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/smoking_food_with_matt_lambert_of_the_musket_room.mp4 file://usb:1/media/smoking_food_with_matt_lambert_of_the_musket_room.mp4 main.js:438
+Move Success: smoking_food_with_matt_lambert_of_the_musket_room.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ret_Anim_Dry_AMD.mp4 file://internal/buffer/Ret_Anim_Dry_AMD.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ret_Anim_Dry_AMD.mp4 main.js:401
+Move File Start: file://internal/buffer/Ret_Anim_Dry_AMD.mp4 file://usb:1/media/Ret_Anim_Dry_AMD.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Ret_Anim_Dry_AMD.mp4 file://usb:1/media/Ret_Anim_Dry_AMD.mp4 main.js:438
+Move Success: Ret_Anim_Dry_AMD.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/166-05-improve-focus-and-concentration.mp4 file://internal/buffer/166_05_improve_focus_and_concentration.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/166-05-improve-focus-and-concentration.mp4 main.js:401
+Move File Start: file://internal/buffer/166_05_improve_focus_and_concentration.mp4 file://usb:1/media/166_05_improve_focus_and_concentration.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/166_05_improve_focus_and_concentration.mp4 file://usb:1/media/166_05_improve_focus_and_concentration.mp4 main.js:438
+Move Success: 166_05_improve_focus_and_concentration.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/memory_gender_111116.mp4 file://internal/buffer/memory_gender_111116.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/memory_gender_111116.mp4 main.js:401
+Move File Start: file://internal/buffer/memory_gender_111116.mp4 file://usb:1/media/memory_gender_111116.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/memory_gender_111116.mp4 file://usb:1/media/memory_gender_111116.mp4 main.js:438
+Move Success: memory_gender_111116.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/contact_lens_032316.mp4 file://internal/buffer/contact_lens_032316.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/contact_lens_032316.mp4 main.js:401
+Move File Start: file://internal/buffer/contact_lens_032316.mp4 file://usb:1/media/contact_lens_032316.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/contact_lens_032316.mp4 file://usb:1/media/contact_lens_032316.mp4 main.js:438
+Move Success: contact_lens_032316.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/brain-diseases-manifest-in-retina-of-the-eye.mp4 file://internal/buffer/brain_diseases_manifest_in_retina_of_the_eye.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/brain-diseases-manifest-in-retina-of-the-eye.mp4 main.js:401
+Move File Start: file://internal/buffer/brain_diseases_manifest_in_retina_of_the_eye.mp4 file://usb:1/media/brain_diseases_manifest_in_retina_of_the_eye.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/brain_diseases_manifest_in_retina_of_the_eye.mp4 file://usb:1/media/brain_diseases_manifest_in_retina_of_the_eye.mp4 main.js:438
+Move Success: brain_diseases_manifest_in_retina_of_the_eye.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/top_5_foods_that_help_fight_inflammation.mp4 file://internal/buffer/top_5_foods_that_help_fight_inflammation.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/top_5_foods_that_help_fight_inflammation.mp4 main.js:401
+Move File Start: file://internal/buffer/top_5_foods_that_help_fight_inflammation.mp4 file://usb:1/media/top_5_foods_that_help_fight_inflammation.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/top_5_foods_that_help_fight_inflammation.mp4 file://usb:1/media/top_5_foods_that_help_fight_inflammation.mp4 main.js:438
+Move Success: top_5_foods_that_help_fight_inflammation.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/overall_health_072916.mp4 file://internal/buffer/overall_health_072916.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/overall_health_072916.mp4 main.js:401
+Move File Start: file://internal/buffer/overall_health_072916.mp4 file://usb:1/media/overall_health_072916.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/overall_health_072916.mp4 file://usb:1/media/overall_health_072916.mp4 main.js:438
+Move Success: overall_health_072916.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/3_Yoga_Life_Principles_To_Live_By.mp4 file://internal/buffer/3_Yoga_Life_Principles_To_Live_By.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/3_Yoga_Life_Principles_To_Live_By.mp4 main.js:401
+Move File Start: file://internal/buffer/3_Yoga_Life_Principles_To_Live_By.mp4 file://usb:1/media/3_Yoga_Life_Principles_To_Live_By.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/3_Yoga_Life_Principles_To_Live_By.mp4 file://usb:1/media/3_Yoga_Life_Principles_To_Live_By.mp4 main.js:438
+Move Success: 3_Yoga_Life_Principles_To_Live_By.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/5_healthy-breakfasts-from-around-the-world-you-should-eat-too_equalized.mp4 file://internal/buffer/5_healthy_breakfasts_from_around_the_world_you_should_eat_too_equalized.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/5_healthy-breakfasts-from-around-the-world-you-should-eat-too_equalized.mp4 main.js:401
+Move File Start: file://internal/buffer/5_healthy_breakfasts_from_around_the_world_you_should_eat_too_equalized.mp4 file://usb:1/media/5_healthy_breakfasts_from_around_the_world_you_should_eat_too_equalized.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/5_healthy_breakfasts_from_around_the_world_you_should_eat_too_equalized.mp4 file://usb:1/media/5_healthy_breakfasts_from_around_the_world_you_should_eat_too_equalized.mp4 main.js:438
+Move Success: 5_healthy_breakfasts_from_around_the_world_you_should_eat_too_equalized.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/avoid_chronic_dry_eye.mp4 file://internal/buffer/avoid_chronic_dry_eye.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/avoid_chronic_dry_eye.mp4 main.js:401
+Move File Start: file://internal/buffer/avoid_chronic_dry_eye.mp4 file://usb:1/media/avoid_chronic_dry_eye.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/avoid_chronic_dry_eye.mp4 file://usb:1/media/avoid_chronic_dry_eye.mp4 main.js:438
+Move Success: avoid_chronic_dry_eye.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Katy_Thomas_Thomas_-_Alphaeon_12-30-16_1920x1080.mp4 file://internal/buffer/Katy_Thomas_Thomas___Alphaeon_12_30_16_1920x1080.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Katy_Thomas_Thomas_-_Alphaeon_12-30-16_1920x1080.mp4 main.js:401
+Move File Start: file://internal/buffer/Katy_Thomas_Thomas___Alphaeon_12_30_16_1920x1080.mp4 file://usb:1/media/Katy_Thomas_Thomas___Alphaeon_12_30_16_1920x1080.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Katy_Thomas_Thomas___Alphaeon_12_30_16_1920x1080.mp4 file://usb:1/media/Katy_Thomas_Thomas___Alphaeon_12_30_16_1920x1080.mp4 main.js:438
+Move Success: Katy_Thomas_Thomas___Alphaeon_12_30_16_1920x1080.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Single_Vision_Lenses_-_Are_They_a_Good_Option_for_You.mp4 file://internal/buffer/Ryan_Corte___Single_Vision_Lenses___Are_They_a_Good_Option_for_You.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Single_Vision_Lenses_-_Are_They_a_Good_Option_for_You.mp4 main.js:401
+Move File Start: file://internal/buffer/Ryan_Corte___Single_Vision_Lenses___Are_They_a_Good_Option_for_You.mp4 file://usb:1/media/Ryan_Corte___Single_Vision_Lenses___Are_They_a_Good_Option_for_You.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Ryan_Corte___Single_Vision_Lenses___Are_They_a_Good_Option_for_You.mp4 file://usb:1/media/Ryan_Corte___Single_Vision_Lenses___Are_They_a_Good_Option_for_You.mp4 main.js:438
+Move Success: Ryan_Corte___Single_Vision_Lenses___Are_They_a_Good_Option_for_You.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/vision_problems_062416.mp4 file://internal/buffer/vision_problems_062416.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/vision_problems_062416.mp4 main.js:401
+Move File Start: file://internal/buffer/vision_problems_062416.mp4 file://usb:1/media/vision_problems_062416.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/vision_problems_062416.mp4 file://usb:1/media/vision_problems_062416.mp4 main.js:438
+Move Success: vision_problems_062416.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/how-to-reduce-your-dependency-on-eyeglasses-and-contacts.mp4 file://internal/buffer/how_to_reduce_your_dependency_on_eyeglasses_and_contacts.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/how-to-reduce-your-dependency-on-eyeglasses-and-contacts.mp4 main.js:401
+Move File Start: file://internal/buffer/how_to_reduce_your_dependency_on_eyeglasses_and_contacts.mp4 file://usb:1/media/how_to_reduce_your_dependency_on_eyeglasses_and_contacts.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/how_to_reduce_your_dependency_on_eyeglasses_and_contacts.mp4 file://usb:1/media/how_to_reduce_your_dependency_on_eyeglasses_and_contacts.mp4 main.js:438
+Move Success: how_to_reduce_your_dependency_on_eyeglasses_and_contacts.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/how-to-know-if-your-vision-was-damaged-by-viewing-the-eclipse.mp4 file://internal/buffer/how_to_know_if_your_vision_was_damaged_by_viewing_the_eclipse.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/how-to-know-if-your-vision-was-damaged-by-viewing-the-eclipse.mp4 main.js:401
+Move File Start: file://internal/buffer/how_to_know_if_your_vision_was_damaged_by_viewing_the_eclipse.mp4 file://usb:1/media/how_to_know_if_your_vision_was_damaged_by_viewing_the_eclipse.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/how_to_know_if_your_vision_was_damaged_by_viewing_the_eclipse.mp4 file://usb:1/media/how_to_know_if_your_vision_was_damaged_by_viewing_the_eclipse.mp4 main.js:438
+Move Success: how_to_know_if_your_vision_was_damaged_by_viewing_the_eclipse.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/HD_New_Ideas_for_Oatmeal.mp4 file://internal/buffer/HD_New_Ideas_for_Oatmeal.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/HD_New_Ideas_for_Oatmeal.mp4 main.js:401
+Move File Start: file://internal/buffer/HD_New_Ideas_for_Oatmeal.mp4 file://usb:1/media/HD_New_Ideas_for_Oatmeal.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/HD_New_Ideas_for_Oatmeal.mp4 file://usb:1/media/HD_New_Ideas_for_Oatmeal.mp4 main.js:438
+Move Success: HD_New_Ideas_for_Oatmeal.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Diabetes_and_Eye_Health-presented-by-Dr.Robert-Melendez.mp4 file://internal/buffer/Diabetes_and_Eye_Health_presented_by_Dr.Robert_Melendez.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Diabetes_and_Eye_Health-presented-by-Dr.Robert-Melendez.mp4 main.js:401
+Move File Start: file://internal/buffer/Diabetes_and_Eye_Health_presented_by_Dr.Robert_Melendez.mp4 file://usb:1/media/Diabetes_and_Eye_Health_presented_by_Dr.Robert_Melendez.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Diabetes_and_Eye_Health_presented_by_Dr.Robert_Melendez.mp4 file://usb:1/media/Diabetes_and_Eye_Health_presented_by_Dr.Robert_Melendez.mp4 main.js:438
+Move Success: Diabetes_and_Eye_Health_presented_by_Dr.Robert_Melendez.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Dry_Eye_Disease_-_What_Is_It_and_Why_Does_It_Occur.mp4 file://internal/buffer/Ryan_Corte___Dry_Eye_Disease___What_Is_It_and_Why_Does_It_Occur.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Dry_Eye_Disease_-_What_Is_It_and_Why_Does_It_Occur.mp4 main.js:401
+Move File Start: file://internal/buffer/Ryan_Corte___Dry_Eye_Disease___What_Is_It_and_Why_Does_It_Occur.mp4 file://usb:1/media/Ryan_Corte___Dry_Eye_Disease___What_Is_It_and_Why_Does_It_Occur.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Ryan_Corte___Dry_Eye_Disease___What_Is_It_and_Why_Does_It_Occur.mp4 file://usb:1/media/Ryan_Corte___Dry_Eye_Disease___What_Is_It_and_Why_Does_It_Occur.mp4 main.js:438
+Move Success: Ryan_Corte___Dry_Eye_Disease___What_Is_It_and_Why_Does_It_Occur.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Laser_Pointers_Can_Cause_Permanent_Eye_Damage_In_Children.mp4 file://internal/buffer/Laser_Pointers_Can_Cause_Permanent_Eye_Damage_In_Children.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Laser_Pointers_Can_Cause_Permanent_Eye_Damage_In_Children.mp4 main.js:401
+Move File Start: file://internal/buffer/Laser_Pointers_Can_Cause_Permanent_Eye_Damage_In_Children.mp4 file://usb:1/media/Laser_Pointers_Can_Cause_Permanent_Eye_Damage_In_Children.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Laser_Pointers_Can_Cause_Permanent_Eye_Damage_In_Children.mp4 file://usb:1/media/Laser_Pointers_Can_Cause_Permanent_Eye_Damage_In_Children.mp4 main.js:438
+Move Success: Laser_Pointers_Can_Cause_Permanent_Eye_Damage_In_Children.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/sleep_quality_111016.mp4 file://internal/buffer/sleep_quality_111016.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/sleep_quality_111016.mp4 main.js:401
+Move File Start: file://internal/buffer/sleep_quality_111016.mp4 file://usb:1/media/sleep_quality_111016.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/sleep_quality_111016.mp4 file://usb:1/media/sleep_quality_111016.mp4 main.js:438
+Move Success: sleep_quality_111016.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/fitness-with-amanda-byram-superfoods.mp4 file://internal/buffer/fitness_with_amanda_byram_superfoods.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/fitness-with-amanda-byram-superfoods.mp4 main.js:401
+Move File Start: file://internal/buffer/fitness_with_amanda_byram_superfoods.mp4 file://usb:1/media/fitness_with_amanda_byram_superfoods.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/fitness_with_amanda_byram_superfoods.mp4 file://usb:1/media/fitness_with_amanda_byram_superfoods.mp4 main.js:438
+Move Success: fitness_with_amanda_byram_superfoods.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/butternut_squash_loaf_cake_wild_dish.mp4 file://internal/buffer/butternut_squash_loaf_cake_wild_dish.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/butternut_squash_loaf_cake_wild_dish.mp4 main.js:401
+Move File Start: file://internal/buffer/butternut_squash_loaf_cake_wild_dish.mp4 file://usb:1/media/butternut_squash_loaf_cake_wild_dish.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/butternut_squash_loaf_cake_wild_dish.mp4 file://usb:1/media/butternut_squash_loaf_cake_wild_dish.mp4 main.js:438
+Move Success: butternut_squash_loaf_cake_wild_dish.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/171-04-causes-of-hand-pain.mp4 file://internal/buffer/171_04_causes_of_hand_pain.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/171-04-causes-of-hand-pain.mp4 main.js:401
+Move File Start: file://internal/buffer/171_04_causes_of_hand_pain.mp4 file://usb:1/media/171_04_causes_of_hand_pain.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/171_04_causes_of_hand_pain.mp4 file://usb:1/media/171_04_causes_of_hand_pain.mp4 main.js:438
+Move Success: 171_04_causes_of_hand_pain.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Improving_Eyesight_-_See_Your_Doctor_Regularly.mp4 file://internal/buffer/Improving_Eyesight___See_Your_Doctor_Regularly.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Improving_Eyesight_-_See_Your_Doctor_Regularly.mp4 main.js:401
+Move File Start: file://internal/buffer/Improving_Eyesight___See_Your_Doctor_Regularly.mp4 file://usb:1/media/Improving_Eyesight___See_Your_Doctor_Regularly.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Improving_Eyesight___See_Your_Doctor_Regularly.mp4 file://usb:1/media/Improving_Eyesight___See_Your_Doctor_Regularly.mp4 main.js:438
+Move Success: Improving_Eyesight___See_Your_Doctor_Regularly.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Exactly_How_To_Put_In_Contact_Lenses.mp4 file://internal/buffer/Ryan_Corte___Exactly_How_To_Put_In_Contact_Lenses.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Exactly_How_To_Put_In_Contact_Lenses.mp4 main.js:401
+Move File Start: file://internal/buffer/Ryan_Corte___Exactly_How_To_Put_In_Contact_Lenses.mp4 file://usb:1/media/Ryan_Corte___Exactly_How_To_Put_In_Contact_Lenses.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Ryan_Corte___Exactly_How_To_Put_In_Contact_Lenses.mp4 file://usb:1/media/Ryan_Corte___Exactly_How_To_Put_In_Contact_Lenses.mp4 main.js:438
+Move Success: Ryan_Corte___Exactly_How_To_Put_In_Contact_Lenses.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/the_best_diet.mp4 file://internal/buffer/the_best_diet.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/the_best_diet.mp4 main.js:401
+Move File Start: file://internal/buffer/the_best_diet.mp4 file://usb:1/media/the_best_diet.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/the_best_diet.mp4 file://usb:1/media/the_best_diet.mp4 main.js:438
+Move Success: the_best_diet.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Simple_Ways_To_Beat_The_Blues.mp4 file://internal/buffer/Simple_Ways_To_Beat_The_Blues.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Simple_Ways_To_Beat_The_Blues.mp4 main.js:401
+Move File Start: file://internal/buffer/Simple_Ways_To_Beat_The_Blues.mp4 file://usb:1/media/Simple_Ways_To_Beat_The_Blues.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Simple_Ways_To_Beat_The_Blues.mp4 file://usb:1/media/Simple_Ways_To_Beat_The_Blues.mp4 main.js:438
+Move Success: Simple_Ways_To_Beat_The_Blues.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Retina_Dilating_Eye_Drops.mp4 file://internal/buffer/Retina_Dilating_Eye_Drops.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Retina_Dilating_Eye_Drops.mp4 main.js:401
+Move File Start: file://internal/buffer/Retina_Dilating_Eye_Drops.mp4 file://usb:1/media/Retina_Dilating_Eye_Drops.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Retina_Dilating_Eye_Drops.mp4 file://usb:1/media/Retina_Dilating_Eye_Drops.mp4 main.js:438
+Move Success: Retina_Dilating_Eye_Drops.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/a_trainers-4-fitness-no-nos_equalized.mp4 file://internal/buffer/a_trainers_4_fitness_no_nos_equalized.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/a_trainers-4-fitness-no-nos_equalized.mp4 main.js:401
+Move File Start: file://internal/buffer/a_trainers_4_fitness_no_nos_equalized.mp4 file://usb:1/media/a_trainers_4_fitness_no_nos_equalized.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/a_trainers_4_fitness_no_nos_equalized.mp4 file://usb:1/media/a_trainers_4_fitness_no_nos_equalized.mp4 main.js:438
+Move Success: a_trainers_4_fitness_no_nos_equalized.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Introwellness_2.mp4 file://internal/buffer/Introwellness_2.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Introwellness_2.mp4 main.js:401
+Move File Start: file://internal/buffer/Introwellness_2.mp4 file://usb:1/media/Introwellness_2.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Introwellness_2.mp4 file://usb:1/media/Introwellness_2.mp4 main.js:438
+Move Success: Introwellness_2.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Protect_Your_Eyes_from_the_Sun.mp4 file://internal/buffer/Protect_Your_Eyes_from_the_Sun.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Protect_Your_Eyes_from_the_Sun.mp4 main.js:401
+Move File Start: file://internal/buffer/Protect_Your_Eyes_from_the_Sun.mp4 file://usb:1/media/Protect_Your_Eyes_from_the_Sun.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Protect_Your_Eyes_from_the_Sun.mp4 file://usb:1/media/Protect_Your_Eyes_from_the_Sun.mp4 main.js:438
+Move Success: Protect_Your_Eyes_from_the_Sun.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/food_label_smarts.mp4 file://internal/buffer/food_label_smarts.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/food_label_smarts.mp4 main.js:401
+Move File Start: file://internal/buffer/food_label_smarts.mp4 file://usb:1/media/food_label_smarts.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/food_label_smarts.mp4 file://usb:1/media/food_label_smarts.mp4 main.js:438
+Move Success: food_label_smarts.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/217_05-home-garden-for-produce_equalized.mp4 file://internal/buffer/217_05_home_garden_for_produce_equalized.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/217_05-home-garden-for-produce_equalized.mp4 main.js:401
+Move File Start: file://internal/buffer/217_05_home_garden_for_produce_equalized.mp4 file://usb:1/media/217_05_home_garden_for_produce_equalized.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/217_05_home_garden_for_produce_equalized.mp4 file://usb:1/media/217_05_home_garden_for_produce_equalized.mp4 main.js:438
+Move Success: 217_05_home_garden_for_produce_equalized.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/IW_New_Daily_Contact_Lenses_for_Astigmat_Market_Vision_Loss.mp4 file://internal/buffer/IW_New_Daily_Contact_Lenses_for_Astigmat_Market_Vision_Loss.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/IW_New_Daily_Contact_Lenses_for_Astigmat_Market_Vision_Loss.mp4 main.js:401
+Move File Start: file://internal/buffer/IW_New_Daily_Contact_Lenses_for_Astigmat_Market_Vision_Loss.mp4 file://usb:1/media/IW_New_Daily_Contact_Lenses_for_Astigmat_Market_Vision_Loss.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/IW_New_Daily_Contact_Lenses_for_Astigmat_Market_Vision_Loss.mp4 file://usb:1/media/IW_New_Daily_Contact_Lenses_for_Astigmat_Market_Vision_Loss.mp4 main.js:438
+Move Success: IW_New_Daily_Contact_Lenses_for_Astigmat_Market_Vision_Loss.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Blepharitis_-_What_Is_It_and_How_Does_It_Impact_Your_Eyes.mp4 file://internal/buffer/Ryan_Corte___Blepharitis___What_Is_It_and_How_Does_It_Impact_Your_Eyes.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Blepharitis_-_What_Is_It_and_How_Does_It_Impact_Your_Eyes.mp4 main.js:401
+Move File Start: file://internal/buffer/Ryan_Corte___Blepharitis___What_Is_It_and_How_Does_It_Impact_Your_Eyes.mp4 file://usb:1/media/Ryan_Corte___Blepharitis___What_Is_It_and_How_Does_It_Impact_Your_Eyes.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Ryan_Corte___Blepharitis___What_Is_It_and_How_Does_It_Impact_Your_Eyes.mp4 file://usb:1/media/Ryan_Corte___Blepharitis___What_Is_It_and_How_Does_It_Impact_Your_Eyes.mp4 main.js:438
+Move Success: Ryan_Corte___Blepharitis___What_Is_It_and_How_Does_It_Impact_Your_Eyes.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Cauliflower_Breadsticks-The_Perfect_Appetizer.mp4 file://internal/buffer/Cauliflower_Breadsticks_The_Perfect_Appetizer.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Cauliflower_Breadsticks-The_Perfect_Appetizer.mp4 main.js:401
+Move File Start: file://internal/buffer/Cauliflower_Breadsticks_The_Perfect_Appetizer.mp4 file://usb:1/media/Cauliflower_Breadsticks_The_Perfect_Appetizer.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Cauliflower_Breadsticks_The_Perfect_Appetizer.mp4 file://usb:1/media/Cauliflower_Breadsticks_The_Perfect_Appetizer.mp4 main.js:438
+Move Success: Cauliflower_Breadsticks_The_Perfect_Appetizer.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/super_food_super_powders.mp4 file://internal/buffer/super_food_super_powders.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/super_food_super_powders.mp4 main.js:401
+Move File Start: file://internal/buffer/super_food_super_powders.mp4 file://usb:1/media/super_food_super_powders.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/super_food_super_powders.mp4 file://usb:1/media/super_food_super_powders.mp4 main.js:438
+Move Success: super_food_super_powders.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/how_long_does_lasik_last.mp4 file://internal/buffer/how_long_does_lasik_last.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/how_long_does_lasik_last.mp4 main.js:401
+Move File Start: file://internal/buffer/how_long_does_lasik_last.mp4 file://usb:1/media/how_long_does_lasik_last.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/how_long_does_lasik_last.mp4 file://usb:1/media/how_long_does_lasik_last.mp4 main.js:438
+Move Success: how_long_does_lasik_last.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/selecting-glasses-at-your-optometrist.mp4 file://internal/buffer/selecting_glasses_at_your_optometrist.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/selecting-glasses-at-your-optometrist.mp4 main.js:401
+Move File Start: file://internal/buffer/selecting_glasses_at_your_optometrist.mp4 file://usb:1/media/selecting_glasses_at_your_optometrist.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/selecting_glasses_at_your_optometrist.mp4 file://usb:1/media/selecting_glasses_at_your_optometrist.mp4 main.js:438
+Move Success: selecting_glasses_at_your_optometrist.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/dos_and_donts_of_healthy_eating.mp4 file://internal/buffer/dos_and_donts_of_healthy_eating.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/dos_and_donts_of_healthy_eating.mp4 main.js:401
+Move File Start: file://internal/buffer/dos_and_donts_of_healthy_eating.mp4 file://usb:1/media/dos_and_donts_of_healthy_eating.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/dos_and_donts_of_healthy_eating.mp4 file://usb:1/media/dos_and_donts_of_healthy_eating.mp4 main.js:438
+Move Success: dos_and_donts_of_healthy_eating.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/The_best_core_strength_exercises_to_do_at_home.mp4 file://internal/buffer/The_best_core_strength_exercises_to_do_at_home.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/The_best_core_strength_exercises_to_do_at_home.mp4 main.js:401
+Move File Start: file://internal/buffer/The_best_core_strength_exercises_to_do_at_home.mp4 file://usb:1/media/The_best_core_strength_exercises_to_do_at_home.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/The_best_core_strength_exercises_to_do_at_home.mp4 file://usb:1/media/The_best_core_strength_exercises_to_do_at_home.mp4 main.js:438
+Move Success: The_best_core_strength_exercises_to_do_at_home.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Foods_to_Fight_Breast_Cancer.mp4 file://internal/buffer/Foods_to_Fight_Breast_Cancer.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Foods_to_Fight_Breast_Cancer.mp4 main.js:401
+Move File Start: file://internal/buffer/Foods_to_Fight_Breast_Cancer.mp4 file://usb:1/media/Foods_to_Fight_Breast_Cancer.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Foods_to_Fight_Breast_Cancer.mp4 file://usb:1/media/Foods_to_Fight_Breast_Cancer.mp4 main.js:438
+Move Success: Foods_to_Fight_Breast_Cancer.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/crispy_zucchini_cakes.mp4 file://internal/buffer/crispy_zucchini_cakes.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/crispy_zucchini_cakes.mp4 main.js:401
+Move File Start: file://internal/buffer/crispy_zucchini_cakes.mp4 file://usb:1/media/crispy_zucchini_cakes.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/crispy_zucchini_cakes.mp4 file://usb:1/media/crispy_zucchini_cakes.mp4 main.js:438
+Move Success: crispy_zucchini_cakes.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/how-supercharged-foods-changed-my-life.mp4 file://internal/buffer/how_supercharged_foods_changed_my_life.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/how-supercharged-foods-changed-my-life.mp4 main.js:401
+Move File Start: file://internal/buffer/how_supercharged_foods_changed_my_life.mp4 file://usb:1/media/how_supercharged_foods_changed_my_life.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/how_supercharged_foods_changed_my_life.mp4 file://usb:1/media/how_supercharged_foods_changed_my_life.mp4 main.js:438
+Move Success: how_supercharged_foods_changed_my_life.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/what-may-cause-nearsightedness.mp4 file://internal/buffer/what_may_cause_nearsightedness.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/what-may-cause-nearsightedness.mp4 main.js:401
+Move File Start: file://internal/buffer/what_may_cause_nearsightedness.mp4 file://usb:1/media/what_may_cause_nearsightedness.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/what_may_cause_nearsightedness.mp4 file://usb:1/media/what_may_cause_nearsightedness.mp4 main.js:438
+Move Success: what_may_cause_nearsightedness.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Carrots_and_Healthy_Eye_Sight.mp4 file://internal/buffer/Carrots_and_Healthy_Eye_Sight.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Carrots_and_Healthy_Eye_Sight.mp4 main.js:401
+Move File Start: file://internal/buffer/Carrots_and_Healthy_Eye_Sight.mp4 file://usb:1/media/Carrots_and_Healthy_Eye_Sight.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Carrots_and_Healthy_Eye_Sight.mp4 file://usb:1/media/Carrots_and_Healthy_Eye_Sight.mp4 main.js:438
+Move Success: Carrots_and_Healthy_Eye_Sight.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/5_brain_foods_to__improve__focus_and_concentration.mp4 file://internal/buffer/5_brain_foods_to__improve__focus_and_concentration.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/5_brain_foods_to__improve__focus_and_concentration.mp4 main.js:401
+Move File Start: file://internal/buffer/5_brain_foods_to__improve__focus_and_concentration.mp4 file://usb:1/media/5_brain_foods_to__improve__focus_and_concentration.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/5_brain_foods_to__improve__focus_and_concentration.mp4 file://usb:1/media/5_brain_foods_to__improve__focus_and_concentration.mp4 main.js:438
+Move Success: 5_brain_foods_to__improve__focus_and_concentration.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Who_is_most_at_risk_for_eye_damage_due_to_sun_exposure.mp4 file://internal/buffer/Who_is_most_at_risk_for_eye_damage_due_to_sun_exposure.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Who_is_most_at_risk_for_eye_damage_due_to_sun_exposure.mp4 main.js:401
+Move File Start: file://internal/buffer/Who_is_most_at_risk_for_eye_damage_due_to_sun_exposure.mp4 file://usb:1/media/Who_is_most_at_risk_for_eye_damage_due_to_sun_exposure.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Who_is_most_at_risk_for_eye_damage_due_to_sun_exposure.mp4 file://usb:1/media/Who_is_most_at_risk_for_eye_damage_due_to_sun_exposure.mp4 main.js:438
+Move Success: Who_is_most_at_risk_for_eye_damage_due_to_sun_exposure.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Alphaeon_Credit.mp4 file://internal/buffer/Alphaeon_Credit.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Alphaeon_Credit.mp4 main.js:401
+Move File Start: file://internal/buffer/Alphaeon_Credit.mp4 file://usb:1/media/Alphaeon_Credit.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Alphaeon_Credit.mp4 file://usb:1/media/Alphaeon_Credit.mp4 main.js:438
+Move Success: Alphaeon_Credit.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/learning_memory_082615.mp4 file://internal/buffer/learning_memory_082615.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/learning_memory_082615.mp4 main.js:401
+Move File Start: file://internal/buffer/learning_memory_082615.mp4 file://usb:1/media/learning_memory_082615.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/learning_memory_082615.mp4 file://usb:1/media/learning_memory_082615.mp4 main.js:438
+Move Success: learning_memory_082615.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Macular_Degeneration_-_What_Is_It_and_Are_You_At_Risk.mp4 file://internal/buffer/Ryan_Corte___Macular_Degeneration___What_Is_It_and_Are_You_At_Risk.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Macular_Degeneration_-_What_Is_It_and_Are_You_At_Risk.mp4 main.js:401
+Move File Start: file://internal/buffer/Ryan_Corte___Macular_Degeneration___What_Is_It_and_Are_You_At_Risk.mp4 file://usb:1/media/Ryan_Corte___Macular_Degeneration___What_Is_It_and_Are_You_At_Risk.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Ryan_Corte___Macular_Degeneration___What_Is_It_and_Are_You_At_Risk.mp4 file://usb:1/media/Ryan_Corte___Macular_Degeneration___What_Is_It_and_Are_You_At_Risk.mp4 main.js:438
+Move Success: Ryan_Corte___Macular_Degeneration___What_Is_It_and_Are_You_At_Risk.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Transitions_Lenses_-_A_Testimonial_From_a_1st_Time_Wearer.mp4 file://internal/buffer/Ryan_Corte___Transitions_Lenses___A_Testimonial_From_a_1st_Time_Wearer.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Transitions_Lenses_-_A_Testimonial_From_a_1st_Time_Wearer.mp4 main.js:401
+Move File Start: file://internal/buffer/Ryan_Corte___Transitions_Lenses___A_Testimonial_From_a_1st_Time_Wearer.mp4 file://usb:1/media/Ryan_Corte___Transitions_Lenses___A_Testimonial_From_a_1st_Time_Wearer.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Ryan_Corte___Transitions_Lenses___A_Testimonial_From_a_1st_Time_Wearer.mp4 file://usb:1/media/Ryan_Corte___Transitions_Lenses___A_Testimonial_From_a_1st_Time_Wearer.mp4 main.js:438
+Move Success: Ryan_Corte___Transitions_Lenses___A_Testimonial_From_a_1st_Time_Wearer.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/scientists-explore-link-between-stress-and-macular-degeneration.mp4 file://internal/buffer/scientists_explore_link_between_stress_and_macular_degeneration.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/scientists-explore-link-between-stress-and-macular-degeneration.mp4 main.js:401
+Move File Start: file://internal/buffer/scientists_explore_link_between_stress_and_macular_degeneration.mp4 file://usb:1/media/scientists_explore_link_between_stress_and_macular_degeneration.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/scientists_explore_link_between_stress_and_macular_degeneration.mp4 file://usb:1/media/scientists_explore_link_between_stress_and_macular_degeneration.mp4 main.js:438
+Move Success: scientists_explore_link_between_stress_and_macular_degeneration.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/5-new-superfoods-that-reduce-stress.mp4 file://internal/buffer/5_new_superfoods_that_reduce_stress.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/5-new-superfoods-that-reduce-stress.mp4 main.js:401
+Move File Start: file://internal/buffer/5_new_superfoods_that_reduce_stress.mp4 file://usb:1/media/5_new_superfoods_that_reduce_stress.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/5_new_superfoods_that_reduce_stress.mp4 file://usb:1/media/5_new_superfoods_that_reduce_stress.mp4 main.js:438
+Move Success: 5_new_superfoods_that_reduce_stress.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/extra_staffs/%D0%91%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg file://internal/buffer/%D0%91%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/extra_staffs/%D0%91%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg main.js:401
+Move File Start: file://internal/buffer/%D0%91%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg file://usb:1/media/%D0%91%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg main.js:435
+Remove Source File Start: file://internal/buffer/%D0%91%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg file://usb:1/media/%D0%91%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg main.js:438
+Move Success: %D0%91%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/expressing_gratitude_linked_to_better_health.mp4 file://internal/buffer/expressing_gratitude_linked_to_better_health.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/expressing_gratitude_linked_to_better_health.mp4 main.js:401
+Move File Start: file://internal/buffer/expressing_gratitude_linked_to_better_health.mp4 file://usb:1/media/expressing_gratitude_linked_to_better_health.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/expressing_gratitude_linked_to_better_health.mp4 file://usb:1/media/expressing_gratitude_linked_to_better_health.mp4 main.js:438
+Move Success: expressing_gratitude_linked_to_better_health.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/7_hair_myths.mp4 file://internal/buffer/7_hair_myths.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/7_hair_myths.mp4 main.js:401
+Move File Start: file://internal/buffer/7_hair_myths.mp4 file://usb:1/media/7_hair_myths.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/7_hair_myths.mp4 file://usb:1/media/7_hair_myths.mp4 main.js:438
+Move Success: 7_hair_myths.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/ads/videos/Understanding_Astigmatism_Correcting_Astigmatism__Cataracts.mp4 file://internal/buffer/Understanding_Astigmatism_Correcting_Astigmatism__Cataracts.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/ads/videos/Understanding_Astigmatism_Correcting_Astigmatism__Cataracts.mp4 main.js:401
+Move File Start: file://internal/buffer/Understanding_Astigmatism_Correcting_Astigmatism__Cataracts.mp4 file://usb:1/media/Understanding_Astigmatism_Correcting_Astigmatism__Cataracts.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Understanding_Astigmatism_Correcting_Astigmatism__Cataracts.mp4 file://usb:1/media/Understanding_Astigmatism_Correcting_Astigmatism__Cataracts.mp4 main.js:438
+Move Success: Understanding_Astigmatism_Correcting_Astigmatism__Cataracts.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Improving_Eyesight_-_Fighting_Fatigue.mp4 file://internal/buffer/Improving_Eyesight___Fighting_Fatigue.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Improving_Eyesight_-_Fighting_Fatigue.mp4 main.js:401
+Move File Start: file://internal/buffer/Improving_Eyesight___Fighting_Fatigue.mp4 file://usb:1/media/Improving_Eyesight___Fighting_Fatigue.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Improving_Eyesight___Fighting_Fatigue.mp4 file://usb:1/media/Improving_Eyesight___Fighting_Fatigue.mp4 main.js:438
+Move Success: Improving_Eyesight___Fighting_Fatigue.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/the-healthiest-time-to-do-everything.mp4 file://internal/buffer/the_healthiest_time_to_do_everything.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/the-healthiest-time-to-do-everything.mp4 main.js:401
+Move File Start: file://internal/buffer/the_healthiest_time_to_do_everything.mp4 file://usb:1/media/the_healthiest_time_to_do_everything.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/the_healthiest_time_to_do_everything.mp4 file://usb:1/media/the_healthiest_time_to_do_everything.mp4 main.js:438
+Move Success: the_healthiest_time_to_do_everything.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/only_2_7_percent_of_us_adults_are_leading_a_healthy_lifestyle.mp4 file://internal/buffer/only_2_7_percent_of_us_adults_are_leading_a_healthy_lifestyle.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/only_2_7_percent_of_us_adults_are_leading_a_healthy_lifestyle.mp4 main.js:401
+Move File Start: file://internal/buffer/only_2_7_percent_of_us_adults_are_leading_a_healthy_lifestyle.mp4 file://usb:1/media/only_2_7_percent_of_us_adults_are_leading_a_healthy_lifestyle.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/only_2_7_percent_of_us_adults_are_leading_a_healthy_lifestyle.mp4 file://usb:1/media/only_2_7_percent_of_us_adults_are_leading_a_healthy_lifestyle.mp4 main.js:438
+Move Success: only_2_7_percent_of_us_adults_are_leading_a_healthy_lifestyle.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Contact_Lenses_for_Keratoconus_-_What_Are_Your_Options.mp4 file://internal/buffer/Ryan_Corte___Contact_Lenses_for_Keratoconus___What_Are_Your_Options.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Contact_Lenses_for_Keratoconus_-_What_Are_Your_Options.mp4 main.js:401
+Move File Start: file://internal/buffer/Ryan_Corte___Contact_Lenses_for_Keratoconus___What_Are_Your_Options.mp4 file://usb:1/media/Ryan_Corte___Contact_Lenses_for_Keratoconus___What_Are_Your_Options.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Ryan_Corte___Contact_Lenses_for_Keratoconus___What_Are_Your_Options.mp4 file://usb:1/media/Ryan_Corte___Contact_Lenses_for_Keratoconus___What_Are_Your_Options.mp4 main.js:438
+Move Success: Ryan_Corte___Contact_Lenses_for_Keratoconus___What_Are_Your_Options.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Macular_Degeneration_Diagnosis.mp4 file://internal/buffer/Macular_Degeneration_Diagnosis.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Macular_Degeneration_Diagnosis.mp4 main.js:401
+Move File Start: file://internal/buffer/Macular_Degeneration_Diagnosis.mp4 file://usb:1/media/Macular_Degeneration_Diagnosis.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Macular_Degeneration_Diagnosis.mp4 file://usb:1/media/Macular_Degeneration_Diagnosis.mp4 main.js:438
+Move Success: Macular_Degeneration_Diagnosis.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/BMC_Diagnosis_of_Dry_Eye.mp4 file://internal/buffer/BMC_Diagnosis_of_Dry_Eye.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/BMC_Diagnosis_of_Dry_Eye.mp4 main.js:401
+Move File Start: file://internal/buffer/BMC_Diagnosis_of_Dry_Eye.mp4 file://usb:1/media/BMC_Diagnosis_of_Dry_Eye.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/BMC_Diagnosis_of_Dry_Eye.mp4 file://usb:1/media/BMC_Diagnosis_of_Dry_Eye.mp4 main.js:438
+Move Success: BMC_Diagnosis_of_Dry_Eye.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Retina_Detached_Vitrectomy_Scleral_Buckle.mp4 file://internal/buffer/Retina_Detached_Vitrectomy_Scleral_Buckle.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Retina_Detached_Vitrectomy_Scleral_Buckle.mp4 main.js:401
+Move File Start: file://internal/buffer/Retina_Detached_Vitrectomy_Scleral_Buckle.mp4 file://usb:1/media/Retina_Detached_Vitrectomy_Scleral_Buckle.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Retina_Detached_Vitrectomy_Scleral_Buckle.mp4 file://usb:1/media/Retina_Detached_Vitrectomy_Scleral_Buckle.mp4 main.js:438
+Move Success: Retina_Detached_Vitrectomy_Scleral_Buckle.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/eat_whole_grains_to_live_a_longer_healthier_life.mp4 file://internal/buffer/eat_whole_grains_to_live_a_longer_healthier_life.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/eat_whole_grains_to_live_a_longer_healthier_life.mp4 main.js:401
+Move File Start: file://internal/buffer/eat_whole_grains_to_live_a_longer_healthier_life.mp4 file://usb:1/media/eat_whole_grains_to_live_a_longer_healthier_life.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/eat_whole_grains_to_live_a_longer_healthier_life.mp4 file://usb:1/media/eat_whole_grains_to_live_a_longer_healthier_life.mp4 main.js:438
+Move Success: eat_whole_grains_to_live_a_longer_healthier_life.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/hugh-acheson-makes-ramp-jam.mp4 file://internal/buffer/hugh_acheson_makes_ramp_jam.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/hugh-acheson-makes-ramp-jam.mp4 main.js:401
+Move File Start: file://internal/buffer/hugh_acheson_makes_ramp_jam.mp4 file://usb:1/media/hugh_acheson_makes_ramp_jam.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/hugh_acheson_makes_ramp_jam.mp4 file://usb:1/media/hugh_acheson_makes_ramp_jam.mp4 main.js:438
+Move Success: hugh_acheson_makes_ramp_jam.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/166-01-best-veggies-for-health.mp4 file://internal/buffer/166_01_best_veggies_for_health.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/166-01-best-veggies-for-health.mp4 main.js:401
+Move File Start: file://internal/buffer/166_01_best_veggies_for_health.mp4 file://usb:1/media/166_01_best_veggies_for_health.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/166_01_best_veggies_for_health.mp4 file://usb:1/media/166_01_best_veggies_for_health.mp4 main.js:438
+Move Success: 166_01_best_veggies_for_health.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/why_african_americans_are_living_longer_healthy_lives.mp4 file://internal/buffer/why_african_americans_are_living_longer_healthy_lives.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/why_african_americans_are_living_longer_healthy_lives.mp4 main.js:401
+Move File Start: file://internal/buffer/why_african_americans_are_living_longer_healthy_lives.mp4 file://usb:1/media/why_african_americans_are_living_longer_healthy_lives.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/why_african_americans_are_living_longer_healthy_lives.mp4 file://usb:1/media/why_african_americans_are_living_longer_healthy_lives.mp4 main.js:438
+Move Success: why_african_americans_are_living_longer_healthy_lives.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/body_inflammation_011717.mp4 file://internal/buffer/body_inflammation_011717.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/body_inflammation_011717.mp4 main.js:401
+Move File Start: file://internal/buffer/body_inflammation_011717.mp4 file://usb:1/media/body_inflammation_011717.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/body_inflammation_011717.mp4 file://usb:1/media/body_inflammation_011717.mp4 main.js:438
+Move Success: body_inflammation_011717.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/What_are_the_treatments_for_eye_damage_due_to_sun_exposure.mp4 file://internal/buffer/What_are_the_treatments_for_eye_damage_due_to_sun_exposure.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/What_are_the_treatments_for_eye_damage_due_to_sun_exposure.mp4 main.js:401
+Move File Start: file://internal/buffer/What_are_the_treatments_for_eye_damage_due_to_sun_exposure.mp4 file://usb:1/media/What_are_the_treatments_for_eye_damage_due_to_sun_exposure.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/What_are_the_treatments_for_eye_damage_due_to_sun_exposure.mp4 file://usb:1/media/What_are_the_treatments_for_eye_damage_due_to_sun_exposure.mp4 main.js:438
+Move Success: What_are_the_treatments_for_eye_damage_due_to_sun_exposure.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/5_Mood-Boosting_Plants.mp4 file://internal/buffer/5_Mood_Boosting_Plants.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/5_Mood-Boosting_Plants.mp4 main.js:401
+Move File Start: file://internal/buffer/5_Mood_Boosting_Plants.mp4 file://usb:1/media/5_Mood_Boosting_Plants.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/5_Mood_Boosting_Plants.mp4 file://usb:1/media/5_Mood_Boosting_Plants.mp4 main.js:438
+Move Success: 5_Mood_Boosting_Plants.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/new-age-related-macular-degeneration-research.mp4 file://internal/buffer/new_age_related_macular_degeneration_research.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/new-age-related-macular-degeneration-research.mp4 main.js:401
+Move File Start: file://internal/buffer/new_age_related_macular_degeneration_research.mp4 file://usb:1/media/new_age_related_macular_degeneration_research.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/new_age_related_macular_degeneration_research.mp4 file://usb:1/media/new_age_related_macular_degeneration_research.mp4 main.js:438
+Move Success: new_age_related_macular_degeneration_research.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/5_foods_to_fight_aging_skin.mp4 file://internal/buffer/5_foods_to_fight_aging_skin.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/5_foods_to_fight_aging_skin.mp4 main.js:401
+Move File Start: file://internal/buffer/5_foods_to_fight_aging_skin.mp4 file://usb:1/media/5_foods_to_fight_aging_skin.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/5_foods_to_fight_aging_skin.mp4 file://usb:1/media/5_foods_to_fight_aging_skin.mp4 main.js:438
+Move Success: 5_foods_to_fight_aging_skin.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/pets_help_keep_our_heart_healthy.mp4 file://internal/buffer/pets_help_keep_our_heart_healthy.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/pets_help_keep_our_heart_healthy.mp4 main.js:401
+Move File Start: file://internal/buffer/pets_help_keep_our_heart_healthy.mp4 file://usb:1/media/pets_help_keep_our_heart_healthy.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/pets_help_keep_our_heart_healthy.mp4 file://usb:1/media/pets_help_keep_our_heart_healthy.mp4 main.js:438
+Move Success: pets_help_keep_our_heart_healthy.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/5_Easy_Steps_To_Controlling_Anxiety.mp4 file://internal/buffer/5_Easy_Steps_To_Controlling_Anxiety.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/5_Easy_Steps_To_Controlling_Anxiety.mp4 main.js:401
+Move File Start: file://internal/buffer/5_Easy_Steps_To_Controlling_Anxiety.mp4 file://usb:1/media/5_Easy_Steps_To_Controlling_Anxiety.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/5_Easy_Steps_To_Controlling_Anxiety.mp4 file://usb:1/media/5_Easy_Steps_To_Controlling_Anxiety.mp4 main.js:438
+Move Success: 5_Easy_Steps_To_Controlling_Anxiety.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/what-can-i-do-to-prevent-cataracts.mp4 file://internal/buffer/what_can_i_do_to_prevent_cataracts.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/what-can-i-do-to-prevent-cataracts.mp4 main.js:401
+Move File Start: file://internal/buffer/what_can_i_do_to_prevent_cataracts.mp4 file://usb:1/media/what_can_i_do_to_prevent_cataracts.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/what_can_i_do_to_prevent_cataracts.mp4 file://usb:1/media/what_can_i_do_to_prevent_cataracts.mp4 main.js:438
+Move Success: what_can_i_do_to_prevent_cataracts.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/What_Dog_Breed_Matches_Your_Lifestyle.mp4 file://internal/buffer/What_Dog_Breed_Matches_Your_Lifestyle.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/What_Dog_Breed_Matches_Your_Lifestyle.mp4 main.js:401
+Move File Start: file://internal/buffer/What_Dog_Breed_Matches_Your_Lifestyle.mp4 file://usb:1/media/What_Dog_Breed_Matches_Your_Lifestyle.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/What_Dog_Breed_Matches_Your_Lifestyle.mp4 file://usb:1/media/What_Dog_Breed_Matches_Your_Lifestyle.mp4 main.js:438
+Move Success: What_Dog_Breed_Matches_Your_Lifestyle.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Live_The_Good_Light_in_Style_with_Transitions_Lenses.mp4 file://internal/buffer/Ryan_Corte___Live_The_Good_Light_in_Style_with_Transitions_Lenses.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Live_The_Good_Light_in_Style_with_Transitions_Lenses.mp4 main.js:401
+Move File Start: file://internal/buffer/Ryan_Corte___Live_The_Good_Light_in_Style_with_Transitions_Lenses.mp4 file://usb:1/media/Ryan_Corte___Live_The_Good_Light_in_Style_with_Transitions_Lenses.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Ryan_Corte___Live_The_Good_Light_in_Style_with_Transitions_Lenses.mp4 file://usb:1/media/Ryan_Corte___Live_The_Good_Light_in_Style_with_Transitions_Lenses.mp4 main.js:438
+Move Success: Ryan_Corte___Live_The_Good_Light_in_Style_with_Transitions_Lenses.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/CU_Studios_3.mp4 file://internal/buffer/CU_Studios_3.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/CU_Studios_3.mp4 main.js:401
+Move File Start: file://internal/buffer/CU_Studios_3.mp4 file://usb:1/media/CU_Studios_3.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/CU_Studios_3.mp4 file://usb:1/media/CU_Studios_3.mp4 main.js:438
+Move Success: CU_Studios_3.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/4_Ways_to_a_Healthy_Heart.mp4 file://internal/buffer/4_Ways_to_a_Healthy_Heart.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/4_Ways_to_a_Healthy_Heart.mp4 main.js:401
+Move File Start: file://internal/buffer/4_Ways_to_a_Healthy_Heart.mp4 file://usb:1/media/4_Ways_to_a_Healthy_Heart.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/4_Ways_to_a_Healthy_Heart.mp4 file://usb:1/media/4_Ways_to_a_Healthy_Heart.mp4 main.js:438
+Move Success: 4_Ways_to_a_Healthy_Heart.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Health_and_Wellness_1.mp4 file://internal/buffer/Health_and_Wellness_1.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Health_and_Wellness_1.mp4 main.js:401
+Move File Start: file://internal/buffer/Health_and_Wellness_1.mp4 file://usb:1/media/Health_and_Wellness_1.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Health_and_Wellness_1.mp4 file://usb:1/media/Health_and_Wellness_1.mp4 main.js:438
+Move Success: Health_and_Wellness_1.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/soft_pretzels.mp4 file://internal/buffer/soft_pretzels.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/soft_pretzels.mp4 main.js:401
+Move File Start: file://internal/buffer/soft_pretzels.mp4 file://usb:1/media/soft_pretzels.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/soft_pretzels.mp4 file://usb:1/media/soft_pretzels.mp4 main.js:438
+Move Success: soft_pretzels.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/best-worst-fish-for-your-health.mp4 file://internal/buffer/best_worst_fish_for_your_health.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/best-worst-fish-for-your-health.mp4 main.js:401
+Move File Start: file://internal/buffer/best_worst_fish_for_your_health.mp4 file://usb:1/media/best_worst_fish_for_your_health.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/best_worst_fish_for_your_health.mp4 file://usb:1/media/best_worst_fish_for_your_health.mp4 main.js:438
+Move Success: best_worst_fish_for_your_health.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/What_are_the_most_common_mistakes_made_regarding_eye_protection_from_the_sun.mp4 file://internal/buffer/What_are_the_most_common_mistakes_made_regarding_eye_protection_from_the_sun.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/What_are_the_most_common_mistakes_made_regarding_eye_protection_from_the_sun.mp4 main.js:401
+Move File Start: file://internal/buffer/What_are_the_most_common_mistakes_made_regarding_eye_protection_from_the_sun.mp4 file://usb:1/media/What_are_the_most_common_mistakes_made_regarding_eye_protection_from_the_sun.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/What_are_the_most_common_mistakes_made_regarding_eye_protection_from_the_sun.mp4 file://usb:1/media/What_are_the_most_common_mistakes_made_regarding_eye_protection_from_the_sun.mp4 main.js:438
+Move Success: What_are_the_most_common_mistakes_made_regarding_eye_protection_from_the_sun.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/millennial_women_072616.mp4 file://internal/buffer/millennial_women_072616.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/millennial_women_072616.mp4 main.js:401
+Move File Start: file://internal/buffer/millennial_women_072616.mp4 file://usb:1/media/millennial_women_072616.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/millennial_women_072616.mp4 file://usb:1/media/millennial_women_072616.mp4 main.js:438
+Move Success: millennial_women_072616.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/What_are_the_most_common_signs_and_symptoms_of_sun_damage_to_the_eyes.mp4 file://internal/buffer/What_are_the_most_common_signs_and_symptoms_of_sun_damage_to_the_eyes.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/What_are_the_most_common_signs_and_symptoms_of_sun_damage_to_the_eyes.mp4 main.js:401
+Move File Start: file://internal/buffer/What_are_the_most_common_signs_and_symptoms_of_sun_damage_to_the_eyes.mp4 file://usb:1/media/What_are_the_most_common_signs_and_symptoms_of_sun_damage_to_the_eyes.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/What_are_the_most_common_signs_and_symptoms_of_sun_damage_to_the_eyes.mp4 file://usb:1/media/What_are_the_most_common_signs_and_symptoms_of_sun_damage_to_the_eyes.mp4 main.js:438
+Move Success: What_are_the_most_common_signs_and_symptoms_of_sun_damage_to_the_eyes.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Conjunctivitis_Pink_Eye_-_Are_All_Forms_the_Same.mp4 file://internal/buffer/Ryan_Corte___Conjunctivitis_Pink_Eye___Are_All_Forms_the_Same.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/Ryan_Corte_-_Conjunctivitis_Pink_Eye_-_Are_All_Forms_the_Same.mp4 main.js:401
+Move File Start: file://internal/buffer/Ryan_Corte___Conjunctivitis_Pink_Eye___Are_All_Forms_the_Same.mp4 file://usb:1/media/Ryan_Corte___Conjunctivitis_Pink_Eye___Are_All_Forms_the_Same.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/Ryan_Corte___Conjunctivitis_Pink_Eye___Are_All_Forms_the_Same.mp4 file://usb:1/media/Ryan_Corte___Conjunctivitis_Pink_Eye___Are_All_Forms_the_Same.mp4 main.js:438
+Move Success: Ryan_Corte___Conjunctivitis_Pink_Eye___Are_All_Forms_the_Same.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/causes-health-risks-of-vitamin-d-deficiency.mp4 file://internal/buffer/causes_health_risks_of_vitamin_d_deficiency.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/causes-health-risks-of-vitamin-d-deficiency.mp4 main.js:401
+Move File Start: file://internal/buffer/causes_health_risks_of_vitamin_d_deficiency.mp4 file://usb:1/media/causes_health_risks_of_vitamin_d_deficiency.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/causes_health_risks_of_vitamin_d_deficiency.mp4 file://usb:1/media/causes_health_risks_of_vitamin_d_deficiency.mp4 main.js:438
+Move Success: causes_health_risks_of_vitamin_d_deficiency.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/how-are-cataracts-treated.mp4 file://internal/buffer/how_are_cataracts_treated.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/how-are-cataracts-treated.mp4 main.js:401
+Move File Start: file://internal/buffer/how_are_cataracts_treated.mp4 file://usb:1/media/how_are_cataracts_treated.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/how_are_cataracts_treated.mp4 file://usb:1/media/how_are_cataracts_treated.mp4 main.js:438
+Move Success: how_are_cataracts_treated.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/busy_lifestyles_051816.mp4 file://internal/buffer/busy_lifestyles_051816.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/busy_lifestyles_051816.mp4 main.js:401
+Move File Start: file://internal/buffer/busy_lifestyles_051816.mp4 file://usb:1/media/busy_lifestyles_051816.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/busy_lifestyles_051816.mp4 file://usb:1/media/busy_lifestyles_051816.mp4 main.js:438
+Move Success: busy_lifestyles_051816.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/what-are-the-symptoms-of-pink-eye.mp4 file://internal/buffer/what_are_the_symptoms_of_pink_eye.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/what-are-the-symptoms-of-pink-eye.mp4 main.js:401
+Move File Start: file://internal/buffer/what_are_the_symptoms_of_pink_eye.mp4 file://usb:1/media/what_are_the_symptoms_of_pink_eye.mp4 main.js:435
+Remove Source File Start: file://internal/buffer/what_are_the_symptoms_of_pink_eye.mp4 file://usb:1/media/what_are_the_symptoms_of_pink_eye.mp4 main.js:438
+Move Success: what_are_the_symptoms_of_pink_eye.mp4 main.js:448
+Copy File Start: https://cu-qa.s3.amazonaws.com/tv/content/videos/everwell_food_safety_challenge.mp4 file://internal/buffer/everwell_food_safety_challenge.mp4 main.js:393
+Copy Success: https://cu-qa.s3.amazonaws.com/tv/content/videos/everwell_food_safety_challenge.mp4 main.js:401
+Move File Start: file://internal/buffer/everwell_food_safety_challenge.mp4 file://usb:1/media/everwell_food_safety_challenge.mp4 main.js:435

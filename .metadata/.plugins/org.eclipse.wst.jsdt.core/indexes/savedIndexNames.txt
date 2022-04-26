@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+D:\projects\roko\puretv\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+80677908.index
+137733690.index
+3768359181.index
+2092613929.index
+1750684726.index
